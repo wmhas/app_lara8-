@@ -2,6 +2,8 @@
 
 namespace Database\Seeders;
 
+use App\Models\Post;
+use App\Models\Category;
 use Illuminate\Database\Seeder;
 
 class DatabaseSeeder extends Seeder
@@ -12,7 +14,14 @@ class DatabaseSeeder extends Seeder
      * @return void
      */
     public function run()
-    {
-        // User::factory(10)->create();
+    { 
+
+        
+        Category::factory(10)->create();
+        Post::factory(100)->create();
+            
+
+        
     }
+    
 }
