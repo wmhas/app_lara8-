@@ -2,6 +2,7 @@
 
 namespace Database\Seeders;
 
+use App\Models\Article;
 use App\Models\Post;
 use App\Models\Category;
 use Illuminate\Database\Seeder;
@@ -19,6 +20,7 @@ class DatabaseSeeder extends Seeder
         
         Category::factory(10)->create();
         Post::factory(100)->create();
+        Article::factory(10)->create();
             
 
         
