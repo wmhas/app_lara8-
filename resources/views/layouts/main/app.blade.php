@@ -11,7 +11,7 @@
     <title>@yield('title') | {{ config('app.name', 'Laravel') }}</title>
 
     <!-- Styles -->
-    @include('layouts.shared.style')
+    @include('layouts.shared.style') 
 
 </head>
     <body class="hold-transition sidebar-mini">
