@@ -3,10 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="486d4d1d-58c9-43f4-af5e-98425f4ba093" name="Default Changelist" comment="">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" afterDir="false" />
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
 =======
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" afterDir="false" />
 >>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
@@ -40,6 +44,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,6 +54,8 @@
                 <element signature="e#7#44#0#PHP" expanded="true" />
               </folding>
 =======
+=======
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Models/Article.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,6 +114,7 @@
       </file>
       <file pinned="false" current-in-tab="false">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/app/Event/UserCreatedEvent.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="236">
@@ -114,6 +122,8 @@
               <folding>
                 <element signature="e#29#65#0#PHP" expanded="true" />
 =======
+=======
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
         <entry file="file://$PROJECT_DIR$/database/seeders/DatabaseSeeder.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
@@ -145,6 +155,9 @@
               <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
               <folding>
                 <element signature="e#7#44#0#PHP" expanded="true" />
+<<<<<<< HEAD
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
+=======
 >>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
               </folding>
             </state>
@@ -155,9 +168,12 @@
         <entry file="file://$PROJECT_DIR$/app/Listeners/SendEmailListener.php">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="347">
               <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
 =======
+=======
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
             <state relative-caret-position="76">
               <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
 >>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
@@ -169,12 +185,15 @@
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PostsController.php">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="408">
               <caret line="55" column="8" lean-forward="true" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
               <folding>
                 <element signature="e#40#71#0#PHP" expanded="true" />
               </folding>
 =======
+=======
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
             <state relative-caret-position="323">
               <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="55" />
 >>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
@@ -202,6 +221,9 @@
 <<<<<<< HEAD
 =======
         <option value="$PROJECT_DIR$/routes/web.php" />
+<<<<<<< HEAD
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
+=======
 >>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
         <option value="$PROJECT_DIR$/app/Models/Article.php" />
         <option value="$PROJECT_DIR$/app/Models/Comment.php" />
@@ -211,11 +233,15 @@
         <option value="$PROJECT_DIR$/database/factories/CommentFactory.php" />
         <option value="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" />
         <option value="$PROJECT_DIR$/app/Event/UserCreatedEvent.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" />
         <option value="$PROJECT_DIR$/app/Listeners/SendEmailListener.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
+=======
+        <option value="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" />
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
 =======
         <option value="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" />
 >>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
@@ -448,11 +474,15 @@
 =======
       <workItem from="1652668231081" duration="5348000" />
       <workItem from="1652753294666" duration="126000" />
+<<<<<<< HEAD
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
+=======
 >>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="18006000" />
   </component>
@@ -462,6 +492,8 @@
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26061776" />
 =======
+=======
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
     <option name="totallyTimeSpent" value="15985000" />
   </component>
   <component name="ToolWindowManager">
@@ -469,6 +501,9 @@
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27132195" />
+<<<<<<< HEAD
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
+=======
 >>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
@@ -485,7 +520,11 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32928476" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2188889" />
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
 =======
       <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2188889" />
 >>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
@@ -554,6 +593,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2022_05_15_000409_drop_post_table.php" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/database/seeders/DatabaseSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -562,10 +602,15 @@
             <element signature="e#36#59#0#PHP" expanded="true" />
           </folding>
 =======
+=======
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
     <entry file="file://$PROJECT_DIR$/database/migrations/2022_05_16_001612_create_comments_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+<<<<<<< HEAD
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
+=======
 >>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
         </state>
       </provider>
@@ -589,6 +634,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2022_05_16_001531_create_articles_table.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="153">
           <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
         </state>
@@ -603,12 +649,28 @@
     </entry>
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/Models/Article.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+=======
+        <state relative-caret-position="285">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2022_05_16_001531_create_articles_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/PostFactory.php">
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="26" selection-start-line="21" selection-start-column="9" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/database/factories/CommentFactory.php">
 =======
     <entry file="file://$PROJECT_DIR$/database/migrations/2022_05_16_001531_create_articles_table.php">
@@ -626,11 +688,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="26" selection-start-line="21" selection-start-column="9" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
+=======
     <entry file="file://$PROJECT_DIR$/database/factories/ArticleFactory.php">
->>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
@@ -642,6 +701,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2022_05_14_232608_create_categories_table.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/ArticleFactory.php">
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="342">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <folding>
+            <element signature="e#38#61#0#PHP" expanded="true" />
+          </folding>
+=======
+        <state relative-caret-position="323">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="55" />
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeders/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <state relative-caret-position="17">
 =======
@@ -710,10 +794,27 @@
           <caret line="55" column="8" lean-forward="true" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
           <folding>
             <element signature="e#40#71#0#PHP" expanded="true" />
+=======
+        <state relative-caret-position="475">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#36#59#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <element signature="e#7#44#0#PHP" expanded="true" />
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
@@ -721,6 +822,8 @@
           <folding>
             <element signature="e#7#44#0#PHP" expanded="true" />
 =======
+=======
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PostsController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="523">
@@ -728,6 +831,9 @@
           <folding>
             <element signature="e#40#64#0#PHP" expanded="true" />
             <element signature="e#309#784#0#PHP" />
+<<<<<<< HEAD
+>>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
+=======
 >>>>>>> 93c7132121f887fc517d17c4ced6d136bd3c1dbf
           </folding>
         </state>
