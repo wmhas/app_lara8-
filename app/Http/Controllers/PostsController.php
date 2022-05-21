@@ -32,6 +32,7 @@ class PostsController extends Controller
 
         return view('posts_index', compact('posts', 'cats', 'posts_condition', 'posts_selective'));
 
+
     }
 
     public function testEvent() {
@@ -41,9 +42,10 @@ class PostsController extends Controller
         event (new UserCreatedEvent("abc@gmail.com"));
     }
 
+
+
     public function test1()
     {
-
 
 
         $time_start = microtime(true);
