@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Event\UserCreatedEvent;
 use App\Models\Category;
 use App\Models\Post;
 use Barryvdh\Debugbar\Facades\Debugbar;
@@ -16,7 +17,7 @@ class PostsController extends Controller
      */
     public function index()
     {
-        Debugbar::addMessage('test debug','info' );
+        Debugbar::addMessage('test debug', 'info');
 
         //$posts = Post::all();
 
@@ -26,28 +27,36 @@ class PostsController extends Controller
 
         $posts_selective = Post::with('category')->get(['id', 'title']);
 
-        $posts_condition = Post::where('created_at','<=', now())->get();
+        $posts_condition = Post::where('created_at', '<=', now())->get();
 
 
-
-
-        return view('posts_index', compact('posts','cats', 'posts_condition', 'posts_selective'));
+        return view('posts_index', compact('posts', 'cats', 'posts_condition', 'posts_selective'));
 
     }
 
+    public function testEvent() {
 
-     public function test1(){
+        //dispatch event
+
+        event (new UserCreatedEvent("abc@gmail.com"));
+    }
+
+    public function test1()
+    {
+
+
 
         $time_start = microtime(true);
 
-         $post = Post::with('category')->get();
+        $post = Post::with('category')->get();
 
-         $time_end = microtime(true);
-         $time = $time_end - $time_start;
+        $time_end = microtime(true);
+        $time = $time_end - $time_start;
 
-         return "Did nothing in $time seconds\n";
+        return "Did nothing in $time seconds\n";
 
 
     }
+}
 
 

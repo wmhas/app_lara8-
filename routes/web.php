@@ -22,3 +22,8 @@ Route::get('/posts', [PostsController::class, 'index']);
 
 Route::get('/test1', [PostsController::class, 'test1']);
 
+
+Route::get('/testEvent', [PostsController::class, 'testEvent']);
+
+
+
