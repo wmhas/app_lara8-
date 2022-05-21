@@ -40,12 +40,16 @@ class PostsController extends Controller
         event (new UserCreatedEvent("abc@gmail.com"));
     }
 
+    public function test2()
+    {
+        
+    }
+
 
 
     public function test1()
     {
-
-
+        
         $time_start = microtime(true);
 
         $post = Post::with('category')->get();
