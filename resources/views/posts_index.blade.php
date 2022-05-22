@@ -1,9 +1,5 @@
 @extends('Layouts.main.app')
 
-<!DOCTYPE html>
-<html>
-
-<body>
     @section('content')
         <style>
             .uper {
@@ -27,7 +23,4 @@
 
 
 
-    </body>
-
-    </html>
 @endsection

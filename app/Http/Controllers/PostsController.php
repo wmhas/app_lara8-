@@ -3,7 +3,9 @@
 namespace App\Http\Controllers;
 
 use App\Event\UserCreatedEvent;
+use App\Models\Article;
 use App\Models\Category;
+use App\Models\Comment;
 use App\Models\Post;
 use Barryvdh\Debugbar\Facades\Debugbar;
 use Illuminate\Http\Request;
@@ -42,14 +44,17 @@ class PostsController extends Controller
 
     public function test2()
     {
+        $data['articles'] = Article::select('name', 'slug')->get();
+        $data['comments'] = Comment::get();
         
+        return view('articles', $data);
     }
 
 
 
     public function test1()
     {
-        
+
         $time_start = microtime(true);
 
         $post = Post::with('category')->get();
